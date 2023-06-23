@@ -233,6 +233,8 @@ List option:
 | public
 | antilink
 | antilink2
+| antiwame
+| antiwame2
 | antidelete
 | antitoxic
 | antisticker
