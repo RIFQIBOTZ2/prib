@@ -7,6 +7,7 @@ global.namaowner = `RIFQII STORE`
 global.namabot = `Kenzy Bot`
 global.thumb = 'https://telegra.ph/file/b45f15e5fb8e37692c544.jpg'
 global.intro = 'https://telegra.ph/file/b45f15e5fb8e37692c544.jpg'
+global.nomorown = '6283852843517'
 
 owner = [
   ['6283852843517'],
